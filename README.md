@@ -19,7 +19,7 @@ $ Ex: const tempoParaONatal = new Countdown("25 December 2022");
 # Utilize o método ".total" no seu objeto para verificar o resultado da contagem regressiva.
 $ Ex: console.log(tempoParaONatal.total)
 
-# Use sua criatividade e utilize dessas propriedades e valores como quiser no seu projeto!
+# Use sua criatividade e utilize essas propriedades e valores como quiser no seu projeto!
 ```
 
 

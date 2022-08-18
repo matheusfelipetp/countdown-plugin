@@ -5,7 +5,7 @@ Esse plugin tem como objetivo realizar uma contagem regressiva em dias, horas, m
 - JavaScript
 
 ## 🔨 Utilização
-```bash
+```
 # Clone o projeto.
 $ git clone https://github.com/matheusfelipetp/countdown-plugin
 
